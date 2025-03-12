@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: Hbzhtd #标题
+subtitle: '成为耗子叔一样的工程师'
+description: '改变，就是好事。' # 简介或格言
+keywords: # SEO
+author: Hbzhtd
+language: zh-CN
+timezone: 'Asia/Shanghai' # 中国时区
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -45,7 +45,7 @@ relative_link: false
 future: true
 syntax_highlighter: highlight.js
 highlight:
-  line_number: true
+  line_number: false # 安知鱼代码高亮渲染，这里需关闭
   auto_detect: false
   tab_replace: ''
   wrap: true
@@ -96,9 +96,18 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: anzhiyu
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: git
+  repo: git@github.com:Gaojc1111/gaojc1111.github.io.git
+  # example, https://github.com/hexojs/hexojs.github.io
+  branch: gh-pages
+
+  # APlayer
+  # https://github.com/MoePlayer/hexo-tag-aplayer/blob/master/docs/README-zh_cn.md
+  aplayer:
+    meting: true
+    asset_inject: false
