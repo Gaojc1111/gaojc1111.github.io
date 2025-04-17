@@ -4,7 +4,7 @@ date: 2023-09-24 17:02:40
 author: Hbzhtd
 categories: 
   - Linux
-cover: https://hbzhtd.oss-cn-beijing.aliyuncs.com/img/site.png
+cover: false
 tags:
   - Linux
 ---

@@ -44,8 +44,8 @@ mourn:
 highlight_theme: pale night #  darker / pale night / light / ocean / mac / mac light / false
 highlight_copy: true # copy button
 highlight_lang: true # show the code language
-highlight_shrink: true # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
-highlight_height_limit: 330 # unit: px 代码高度限制
+highlight_shrink: false # true: shrink the code blocks / false: expand the code blocks | none: expand code blocks and hide the button
+highlight_height_limit:  # unit: px 代码高度限制
 code_word_wrap: false // 是否关闭代码横向滚动条
 
 # copy settings
