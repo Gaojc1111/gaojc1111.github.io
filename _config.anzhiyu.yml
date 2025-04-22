@@ -149,9 +149,9 @@ default_top_img: false # todo bug
 
 cover:
   # display the cover or not (是否显示文章封面)
-  index_enable: false # 主页是否显示文章封面
-  aside_enable: false # 侧栏是否显示文章封面
-  archives_enable: false # 归档是否显示文章封面
+  index_enable: true # 主页是否显示文章封面
+  aside_enable: true # 侧栏是否显示文章封面
+  archives_enable: true # 归档是否显示文章封面
   # the position of cover in home page (封面显示的位置)
   # left/right/both
   position: left
