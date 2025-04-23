@@ -4,8 +4,9 @@ date: 2023-09-24 17:02:40
 author: Hbzhtd
 categories: 
   - Linux
-tags: https://hbzhtd.oss-cn-beijing.aliyuncs.com/imags/2.png
+tags: 
   - Linux
+cover: https://hbzhtd.oss-cn-beijing.aliyuncs.com/imags/2.png
 ---
 
 # 常用命令
