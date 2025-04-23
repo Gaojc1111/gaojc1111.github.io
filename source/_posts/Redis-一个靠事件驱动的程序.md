@@ -3,7 +3,7 @@ title: Redis：一个靠事件驱动的程序
 date: 2025-04-16 20:28:13
 tags:
   - Redis
-cover: false
+cover: https://hbzhtd.oss-cn-beijing.aliyuncs.com/imags/3.png
 ---
 Redis服务器本身其实是一个事件驱动程序，内部的所有操作基本都是靠事件进行驱动，也可以说，每一个操作都是一个事件。
 

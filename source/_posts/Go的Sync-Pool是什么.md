@@ -3,7 +3,7 @@ title: Go的sync.Pool有什么用?
 date: 2025-04-17 19:57:04
 tags: 
   - Go
-cover: false
+cover: https://hbzhtd.oss-cn-beijing.aliyuncs.com/imags/1.png
 ---
 
 ## 前言

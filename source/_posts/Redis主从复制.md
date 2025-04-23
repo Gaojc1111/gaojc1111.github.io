@@ -3,6 +3,9 @@ title: Redis主从复制
 date: 2025-04-21 11:37:13
 tags:
   - Redis
+categories: 
+  - Redis
+cover: https://hbzhtd.oss-cn-beijing.aliyuncs.com/imags/4.png
 ---
 
 ## 前言

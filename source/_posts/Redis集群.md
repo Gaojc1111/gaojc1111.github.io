@@ -5,4 +5,5 @@ tags:
   - Redis
 categories:
   - Redis
+cover: https://hbzhtd.oss-cn-beijing.aliyuncs.com/imags/6.png
 ---
